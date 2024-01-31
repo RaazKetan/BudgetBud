@@ -110,7 +110,7 @@ function Card(props) {
   return (
     <>
       <div className={styles.cardWapper}>
-        <h1>Kharche</h1>
+        <h1>BudgetBud</h1>
         <h2>Keep It In Check ✅</h2>
         {errorState.invalid ? (
           <div className={styles.invalid}>
