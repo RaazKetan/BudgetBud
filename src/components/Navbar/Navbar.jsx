@@ -46,7 +46,7 @@ function Navbar(props) {
         <h2>{time}</h2>
       </div>
       <div className="navbar">
-        <h1 className="logo">Kharche</h1>
+        <h1 className="logo">BudgetBud</h1>
         <div className="elements">
           <Link to="/" className="link">
             <i className="fa-solid fa-house child">
